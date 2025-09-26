@@ -1,0 +1,8 @@
+benchmark_data.parquet
+create_synthetic_db.py
+synthetic_benchmark_data.parquet
+*.png
+dataframe_performance_comparison.py
+massive_synthetic_data.parquet
+synthetic_performance_test.db
+.DS_Store
